@@ -7,16 +7,11 @@ Just Click Branches and you will see a list of utilities!
 
 Credits:
 
-Main Creator: AichTech (@aichtech)
+Main Creator: araslmao
 
 Helpers:
 
 @Bruhens
 
 @Endy138YT
-Fsutil behavior set memoryusage 2
-del /q C:\Users\%username%\AppData\Local\Temp\*
-del /q C:\Windows\Temp\*
-del /q C:\Windows\Prefetch\*
-del /q C:\Windows\SoftwareDistribution\download\*
-who did tjsius the text above this 😭😭😭😭
+
